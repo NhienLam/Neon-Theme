@@ -1,0 +1,21 @@
+{
+  "name": "Neon theme",
+  "about_url": "https://github.com/NhienLam/Neon-Theme",
+  "license_url": "https://github.com/NhienLam/Neon-Theme/blob/main/LICENSE",
+  "assets": {
+  },
+  "color_schemes": {
+    "Default": {
+      "primary": "E7DFDD",
+      "secondary": "0E0B16",
+      "tertiary": "4717F6",
+      "quaternary": "A239CA",  
+      "header_background": "111111",
+      "header_primary": "E7DFDD",
+      "highlight": "86BDDB",
+      "danger": "F93154", 
+      "success": "0F82AF",
+      "love": "FF66CC"
+    }
+  } 
+}
