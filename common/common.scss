@@ -1,7 +1,7 @@
 .username-banner {
-    height: 75px;
+    height: 45px;
     width: 100%;
-    background: (--secondary);
+    background: var(--tertiary);
     display: flex;
     align-items: center;
     justify-content: left;
@@ -9,6 +9,6 @@
 }
 
 .user-name {
-    font-size: 2em;
-    color: (--primary);
+    font-size: 1.5em;
+    color: var(--secondary);
 }
