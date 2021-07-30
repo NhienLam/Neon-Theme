@@ -1,6 +1,7 @@
 {
   "name": "Neon theme",
   "about_url": "https://github.com/NhienLam/Neon-Theme",
+  "authors": "Nhien Lam",
   "license_url": "https://github.com/NhienLam/Neon-Theme/blob/main/LICENSE",
   "assets": {
   },
@@ -17,5 +18,14 @@
       "success": "FEC763",
       "love": "FFDEF3"
     }
-  } 
+  },
+  "modifiers": {
+    "svg_icons": [
+      "calendar",
+      "check",
+      "star",
+      "times",
+      "question"
+    ]
+  }
 }
